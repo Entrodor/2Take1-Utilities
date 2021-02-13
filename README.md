@@ -118,7 +118,7 @@ Or you can open the .rar and manually copy the .lua file and lib folder to your 
 - Utilities.ini is found in %appdata%\PopstarDevs\2take1menu\scripts\Utilities
 
 ## Installation
-- Firstly choose between Utilities 1.x or Utilities 2.x, then grab the latest .zip or .exe (self extracting archive) of either version, or download directly from here.
+- Grab the latest .zip or .exe (self extracting archive) of either version, or download directly from here.
 - .exe method: 
     - run the .exe and thats it, done. ez
 - .zip method:
@@ -269,12 +269,6 @@ Or you can open the .rar and manually copy the .lua file and lib folder to your 
 - adjusted a few things to now work with latest 2t1 version
 - updated included vehiclemapper.lua
 
-**V2.0.0**
-- **THIS IS STILL WORK IN PROGRESS**
-- bit of a rewrite
-- added many extra settings to change what data gets logged and which functions log what.. etc
-- moved debug logs to /utilities/debug instead of /utilities/logs/debug
-- 
 
 ## to-do
 - add option to adjust x.mod_i "precision"
